@@ -1,0 +1,22 @@
+{
+  "name": "MovieCollections",
+  "version": "0.1.0",
+  "summary": "A short description of MovieCollections.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oddesa/MovieCollections",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oddesa": "jehnsen.hirena@sci.ui.ac.id"
+  },
+  "source": {
+    "git": "https://github.com/oddesa/MovieCollections.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MovieCollections/Classes/**/*"
+}

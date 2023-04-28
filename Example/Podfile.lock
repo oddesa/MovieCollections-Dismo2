@@ -1,0 +1,16 @@
+PODS:
+  - MovieCollections (0.1.0)
+
+DEPENDENCIES:
+  - MovieCollections (from `../`)
+
+EXTERNAL SOURCES:
+  MovieCollections:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MovieCollections: 0ec73ebc2e69f1517b993ad8e375b9476d15f580
+
+PODFILE CHECKSUM: 5af8b7eaa86eb48277ed13f5693e403d7a1112d6
+
+COCOAPODS: 1.11.3
